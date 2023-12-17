@@ -1,16 +1,40 @@
-### Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**brahimvandenbrande/brahimvandenbrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm a multi-faceted web developer and IT specialist, proficient in languages as diverse as:
 
-Here are some ideas to get you started:
+- 🇫🇷 French
+- 🇬🇧 English
+- 🇳🇱 Dutch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I code seamlessly in:
+
+- 💻 HTML
+- 🎨 CSS
+- 🚀 JavaScript
+- 🌐 WordPress
+- 🐘 PHP
+
+### 🚀 My Journey
+
+From being a self-taught enthusiast to venturing into entrepreneurship, my learning path involved consuming a staggering 875 tutorial videos. 🎥
+
+### 🕵️‍♂️ Always Exploring
+
+I'm perpetually on the lookout for the latest trends to make my websites faster and more efficient.
+
+### 🌐 My Mission
+
+1. **Optimal User Experience**: Guaranteeing websites with seamless navigation and a clear, impactful message.
+
+2. **Guidance and Support**: I'm here to accompany and advise you patiently and gently throughout the production and implementation process, and beyond.
+
+Let's code and create together! 🚀
+
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/brahimvandenbrande/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/mbilstd)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
