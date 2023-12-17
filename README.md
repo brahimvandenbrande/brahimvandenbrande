@@ -28,6 +28,14 @@ I'm perpetually on the lookout for the latest trends to make my websites faster 
 
 2. **Guidance and Support**: I'm here to accompany and advise you patiently and gently throughout the production and implementation process, and beyond.
 
+### 🌱 Currently Learning
+
+I'm currently expanding my skills by delving into:
+
+- ⚛️ React
+- 📘 Typescript
+- 🌐 Exploring Payload CMS
+
 Let's code and create together! 🚀
 
 <div id="badges">
