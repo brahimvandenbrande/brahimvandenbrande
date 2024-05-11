@@ -14,7 +14,7 @@ I code seamlessly in:
 - 🌐 WordPress
 - 🐘 PHP
 
-### 🚀 My Journey
+### 🚀 Journey
 
 From being a self-taught enthusiast to venturing into entrepreneurship, my learning path involved consuming a staggering amount of tutorial videos. 🎥
 
@@ -22,15 +22,15 @@ From being a self-taught enthusiast to venturing into entrepreneurship, my learn
 
 I'm perpetually on the lookout for the latest trends to make my websites faster and more efficient.
 
-### 🌐 My Mission
+### 🌐 Mission
 
 1. **Optimal User Experience**: Guaranteeing websites with seamless navigation and a clear, impactful message.
 
 2. **Guidance and Support**: I'm here to accompany and advise you patiently and gently throughout the production and implementation process, and beyond.
 
-### 🌱 Currently Learning
+### 🌱 Currently
 
-I'm currently expanding my skills by delving into:
+I'm expanding my skills by delving into:
 
 - ⚛️ <a href="https://github.com/facebook/react">
     React
