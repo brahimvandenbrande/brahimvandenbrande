@@ -16,7 +16,7 @@ I code seamlessly in:
 
 ### 🚀 My Journey
 
-From being a self-taught enthusiast to venturing into entrepreneurship, my learning path involved consuming a staggering 875 tutorial videos. 🎥
+From being a self-taught enthusiast to venturing into entrepreneurship, my learning path involved consuming a staggering amount of tutorial videos. 🎥
 
 ### 🕵️‍♂️ Always Exploring
 
@@ -32,7 +32,7 @@ I'm perpetually on the lookout for the latest trends to make my websites faster 
 
 I'm currently expanding my skills by delving into:
 
-- ⚛️ React
+- ⚛️ React / Remix
 - 📘 Typescript
 - 🌐 Exploring Payload CMS
 
