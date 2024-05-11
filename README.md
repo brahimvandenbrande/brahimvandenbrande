@@ -44,7 +44,7 @@ I'm currently expanding my skills by delving into:
     Payload CMS
   </a>
 
-Let's code and create together! 🚀
+Let's discuss your project! 🚀
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/brahimvandenbrande/)">
