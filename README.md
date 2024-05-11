@@ -32,9 +32,17 @@ I'm perpetually on the lookout for the latest trends to make my websites faster 
 
 I'm currently expanding my skills by delving into:
 
-- ⚛️ React / Remix
-- 📘 Typescript
-- 🌐 Exploring Payload CMS
+- ⚛️ <a href="https://github.com/facebook/react">
+    React
+  </a> / <a href="https://github.com/remix-run">
+    Remix
+  </a>
+- 📘 <a href="https://github.com/microsoft/TypeScript">
+    TypeScript
+  </a>
+- 🌐 <a href="https://github.com/payloadcms/payload">
+    Payload CMS
+  </a>
 
 Let's code and create together! 🚀
 
